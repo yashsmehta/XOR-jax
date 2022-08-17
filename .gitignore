@@ -1,0 +1,8 @@
+.ipynb_checkpoints*
+imgs/*
+*.gif
+.vscode/
+__pycache__/
+data/
+*.egg-info
+logs/
